@@ -1,0 +1,41 @@
+Date,Division,Transaction_Type,Amount,Category,Status
+2024-01-05,Division A,Revenue,125000,Product Sales,Completed
+2024-01-06,Division B,Revenue,85000,Service Revenue,Completed
+2024-01-07,Division C,Revenue,95000,Consulting,Completed
+2024-01-08,Division A,Expense,45000,Salary,Completed
+2024-01-09,Division D,Revenue,65000,Licensing,Completed
+2024-01-10,Division B,Expense,32000,Operations,Completed
+2024-01-11,Division E,Revenue,55000,Product Sales,Completed
+2024-01-12,Division A,Expense,28000,Marketing,Completed
+2024-01-13,Division C,Expense,38000,Infrastructure,Completed
+2024-01-14,Division A,Revenue,145000,Enterprise Sales,Completed
+2024-01-15,Division D,Expense,22000,Support,Completed
+2024-01-16,Division B,Revenue,105000,Consulting,Completed
+2024-01-17,Division E,Expense,31000,Operations,Completed
+2024-01-18,Division C,Revenue,88000,Training,Completed
+2024-01-19,Division A,Revenue,135000,Product Sales,Completed
+2024-01-20,Division D,Revenue,72000,Licensing,Completed
+2024-01-21,Division B,Expense,42000,Infrastructure,Completed
+2024-01-22,Division E,Revenue,48000,Service,Completed
+2024-01-23,Division A,Expense,35000,R&D,Completed
+2024-01-24,Division C,Revenue,92000,Consulting,Completed
+2024-02-01,Division A,Revenue,155000,Enterprise Sales,Completed
+2024-02-02,Division B,Revenue,110000,Service Revenue,Completed
+2024-02-03,Division D,Revenue,78000,Licensing,Completed
+2024-02-04,Division A,Expense,48000,Salary,Completed
+2024-02-05,Division E,Revenue,52000,Product Sales,Completed
+2024-02-06,Division C,Expense,40000,Operations,Completed
+2024-02-07,Division B,Revenue,98000,Consulting,Completed
+2024-02-08,Division A,Revenue,142000,Product Sales,Completed
+2024-02-09,Division D,Expense,25000,Infrastructure,Completed
+2024-02-10,Division E,Expense,29000,Salary,Completed
+2024-02-11,Division A,Revenue,138000,Service,Completed
+2024-02-12,Division C,Revenue,95000,Training,Completed
+2024-02-13,Division B,Expense,38000,R&D,Completed
+2024-02-14,Division A,Expense,32000,Marketing,Completed
+2024-02-15,Division D,Revenue,75000,Licensing,Completed
+2024-02-16,Division E,Revenue,58000,Consulting,Completed
+2024-02-17,Division B,Revenue,108000,Service Revenue,Completed
+2024-02-18,Division A,Revenue,148000,Enterprise Sales,Completed
+2024-02-19,Division C,Expense,42000,Infrastructure,Completed
+2024-02-20,Division D,Revenue,70000,Licensing,Completed
