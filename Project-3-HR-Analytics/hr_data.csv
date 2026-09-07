@@ -1,0 +1,41 @@
+Employee_ID,Department,Role,Salary,Tenure_Months,Performance_Score,Engagement_Score,Status,Hire_Date,Promotion_Status
+EMP001,Engineering,Software Engineer,125000,48,8.5,8.2,Active,2020-01-15,No
+EMP002,Engineering,Senior Engineer,155000,60,9.1,7.9,Active,2019-02-20,Yes
+EMP003,Engineering,Tech Lead,185000,36,8.8,8.5,Active,2021-01-10,No
+EMP004,Engineering,Software Engineer,118000,24,7.9,6.8,Resigned,2022-01-05,No
+EMP005,Sales,Sales Manager,135000,72,8.7,8.8,Active,2018-03-12,Yes
+EMP006,Sales,Account Executive,92000,18,8.2,7.5,Active,2022-06-01,No
+EMP007,Sales,Business Development,105000,42,8.4,8.1,Active,2020-10-15,No
+EMP008,Marketing,Marketing Manager,125000,54,8.3,7.9,Active,2019-06-20,Yes
+EMP009,Marketing,Content Specialist,78000,12,7.8,6.9,Active,2023-01-10,No
+EMP010,Marketing,Digital Marketing,95000,30,8.1,7.6,Active,2021-06-15,No
+EMP011,HR,HR Manager,115000,66,8.5,8.4,Active,2017-08-01,Yes
+EMP012,HR,Recruiter,68000,18,7.9,7.2,Active,2022-09-15,No
+EMP013,Finance,Finance Manager,138000,48,8.8,8.6,Active,2020-02-10,Yes
+EMP014,Finance,Accountant,82000,24,8.2,7.8,Active,2022-01-20,No
+EMP015,Finance,Financial Analyst,98000,36,8.5,8.2,Active,2021-03-15,No
+EMP016,Operations,Operations Manager,128000,60,8.6,8.5,Active,2019-04-01,Yes
+EMP017,Operations,Process Analyst,85000,20,8.1,7.4,Active,2022-11-15,No
+EMP018,Operations,Coordinator,62000,12,7.6,6.8,Active,2023-02-01,No
+EMP019,Customer Support,Support Manager,105000,48,7.8,6.5,Active,2020-05-20,No
+EMP020,Customer Support,Support Engineer,58000,6,7.2,5.1,Resigned,2023-06-15,No
+EMP021,Customer Support,Support Specialist,52000,8,7.0,5.3,Active,2023-04-10,No
+EMP022,Customer Support,Support Lead,75000,24,7.5,6.2,Active,2022-08-20,No
+EMP023,Product,Product Manager,145000,54,8.9,8.7,Active,2019-09-10,Yes
+EMP024,Product,Product Designer,108000,36,8.6,8.4,Active,2021-02-15,No
+EMP025,Product,UX Researcher,95000,24,8.3,8.1,Active,2022-01-05,No
+EMP026,Legal,Legal Manager,165000,72,8.7,8.3,Active,2018-01-15,Yes
+EMP027,Legal,Legal Associate,92000,18,8.1,7.6,Active,2022-07-01,No
+EMP028,Strategy,Strategy Manager,155000,60,8.8,8.6,Active,2019-03-20,Yes
+EMP029,Strategy,Business Analyst,105000,30,8.5,8.2,Active,2021-06-10,No
+EMP030,Strategy,Consultant,88000,14,8.2,7.8,Active,2022-10-15,No
+EMP031,Engineering,Software Engineer,121000,36,8.3,7.5,Active,2021-05-01,No
+EMP032,Engineering,QA Engineer,102000,42,8.0,7.2,Resigned,2020-08-10,No
+EMP033,Sales,Sales Representative,78000,12,7.9,7.1,Active,2023-03-15,No
+EMP034,Marketing,Graphic Designer,72000,18,8.1,7.4,Active,2022-12-01,No
+EMP035,HR,HR Specialist,68000,24,7.8,7.3,Active,2022-01-15,No
+EMP036,Finance,Senior Analyst,125000,48,8.7,8.5,Active,2020-03-01,Yes
+EMP037,Operations,Senior Analyst,115000,54,8.5,8.3,Active,2019-07-20,Yes
+EMP038,Customer Support,Support Manager,108000,36,7.9,6.4,Active,2021-02-15,No
+EMP039,Product,Product Lead,165000,60,9.0,8.8,Active,2019-04-10,Yes
+EMP040,Legal,Paralegal,68000,12,7.8,7.5,Active,2023-01-10,No
