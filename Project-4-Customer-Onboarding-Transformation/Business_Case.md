@@ -443,6 +443,5 @@ Implement an integrated Customer Onboarding Platform with process redesign, auto
 ---
 
 **Business Case Status**: Approved  
-**Document Version**: 1.1  
-**Prepared By**: Senior Business Analyst  
-**Date**: September 2024
+**Prepared By**: Hardik Mishra 
+**Date**: September 2026
